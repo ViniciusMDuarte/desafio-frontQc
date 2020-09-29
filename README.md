@@ -12,7 +12,7 @@
 
 **O Projeto** se resume em uma feature de consumo da API do **GITHUB** , que permite você buscar repositórios e perfis de usuários dentro do GITHUB no campo de busca da LP.
 
-<a href="https://determined-swirles-972f11.netlify.app/#sobre" target="_blank">Deploy</a>
+<a href="https://determined-swirles-972f11.netlify.app" target="_blank">Deploy</a>
 
 ## Ferramentas
 
