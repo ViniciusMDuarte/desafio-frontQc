@@ -2,13 +2,13 @@
 ## Demostração Screenshot
 
 <h1 align="center">
-   <img src="./github/screeshot-desafio.JPG" width="300px"/>
+   <img src="./github/screeshot-desafio.JPG" />
 </h1>
 
 ## Demostração Video demostrativo
 
 <h1 align="center">
-   <img src="./github/desafio-frontend.gif" width="300px"/>
+   <img src="./github/desafio-frontend.gif" />
 </h1>
 
 
