@@ -1,20 +1,29 @@
+# Desafio Front-end QConcursos
 
-## Demostração Screenshot
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vanessakoch)](https://github.com/ViniciusMDuarte)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/viniciusmduarte//)](https://www.linkedin.com/in/viniciusmduarte/)
+
+
+
+## Demostração - Screenshot
 
 <h1 align="center">
-   <img src="./github/screeshot-desafio.jpg" width="150px"/>
+   <img src="./github/screeshot-desafio.JPG" />
 </h1>
 
-## Demostração Video demostrativo
+## Demostração - Video
 
 <h1 align="center">
-   <img src="./github/desafio-frontend.gif" width="150px"/>
+   <img src="./github/desafio-frontend.gif" />
 </h1>
 
 
 ## Sobre o projeto
 
-**Desafio** foi um projeto(Landing Page) criada para uma super vaga de Front-end na **QConcursos**, o projeto se resume em uma feature de consumo da API do **GITHUB** , que permite você buscar 
+**O Projeto** se resume em uma feature de consumo da API do **GITHUB** , que permite você buscar repositórios e perfis de usuários dentro do GITHUB no campo de busca da LP.
+
+**O Desafio Fron-end da QConcursos** consiste na criação de uma Landing Page, layout fornecido pela equipe técnica da empresa,resolvi que deveria estudar um pouco da marca da empresa e a daí partir para conceitos de cores, tipografias espaçamentos entre outros envolvendo o público alvo QC que são os alunos, sendo assim alterarando o design do layout enviado.
+
 
 
 ## Ferramentas
