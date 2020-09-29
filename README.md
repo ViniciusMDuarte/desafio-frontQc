@@ -3,21 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vanessakoch)](https://github.com/ViniciusMDuarte)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/viniciusmduarte//)](https://www.linkedin.com/in/viniciusmduarte/)
 
-
-
-## Demostração - Screenshot
-
-<h1 align="center">
-   <img src="./github/screeshot-desafio.JPG" />
-</h1>
-
-## Demostração - Video
-
-<h1 align="center">
-   <img src="./github/desafio-frontend.gif" />
-</h1>
-
-
 ## Sobre o projeto
 
 **O Projeto** se resume em uma feature de consumo da API do **GITHUB** , que permite você buscar repositórios e perfis de usuários dentro do GITHUB no campo de busca da LP.
@@ -36,6 +21,20 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **Design Responsivo**
 - **JavaScript Puro**
 - **Consumo API**
+
+
+## Screenshot
+
+<h1 align="center">
+   <img src="./github/screeshot-desafio.JPG" />
+</h1>
+
+## Video
+
+<h1 align="center">
+   <img src="./github/desafio-frontend.gif" />
+</h1>
+
 
 
 ## Para iniciar
